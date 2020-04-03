@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  font-size: 18px;
+}
+
+.navbar {
+  text-align: center;
+  padding: 4vh 0 2vh 0;
+  box-shadow: 1px 3px rgb(36, 36, 36);
+  margin-bottom: 10vh;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  margin: 8vw;
+}
+
+.navbar a:hover {
+  color: grey;
+}
+
